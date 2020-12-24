@@ -9,7 +9,7 @@
                 <tree>
                     <field name="name"/>
                     <field name="date_contract1"/>
-                    <field name="saldo_inicial"/>
+                    <field name="saldo_inicial" sum = "saldo_inicial"/>
                     <field name="cargo_id"/>
                     <!-- <field name="cost"/>
                     <field name="date_contract"/>-->
