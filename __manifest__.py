@@ -7,7 +7,7 @@
         subtitle on modules listing or apps.openerp.com""",
 
     'description': """
-        Long description of module's purpose
+        Hecho por Ulises
     """,
 
     'author': "My Company",
@@ -24,9 +24,8 @@
 
     # always loaded
     'data': [
-        'views/view_ventas',
         'security/ir.model.access.csv',
-         'views/view_libros.xml',
+        'views/view_libros.xml',
         #'views/views.xml',
        
         # 'views/templates.xml',
