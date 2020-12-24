@@ -26,6 +26,7 @@
     'data': [
         'views/view_ventas',
         'security/ir.model.access.csv',
+         'views/view_libros.xml',
         #'views/views.xml',
        
         # 'views/templates.xml',
